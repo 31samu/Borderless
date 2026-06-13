@@ -1,0 +1,26 @@
+[
+  {
+    "property": "zen.theme.content-element-separation",
+    "label": "Content element separation",
+    "type": "dropdown",
+    "defaultValue": "8",
+    "options": [
+      {
+        "label": "Borderless",
+        "value": "0"
+      },
+      {
+        "label": "Compact",
+        "value": "4"
+      },
+      {
+        "label": "Default",
+        "value": "8"
+      },
+      {
+        "label": "Spacious",
+        "value": "16"
+      }
+    ]
+  }
+]
